@@ -1,4 +1,3 @@
-# Swift-Iris-Theme
-First repository
+# Swift Iris WordPress Theme
 
-Test repo for an old WordPress theme
+Old WordPress child theme of [Waipoua](https://www.elmastudio.de/en/themes/waipoua/)
